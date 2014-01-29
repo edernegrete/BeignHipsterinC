@@ -28,7 +28,7 @@ main (){
 
    randomize();
 	srand (time(NULL));
-  	numero_aleatorio=0+rand()%2;
+  	numero_aleatorio=0+rand()%3;
 	for (x=0;x < 1; x++){
 	 	numero_aleatorio;
    	if (numero_aleatorio>=1){
