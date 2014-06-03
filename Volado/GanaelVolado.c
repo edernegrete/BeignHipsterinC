@@ -22,7 +22,7 @@ main (){
       }
       intentos++;
    }while(intentos!=5 && numero_aleatorio != opcion);
-   if (opcion == c)
+   if (numero_aleatorio == opcion)
    	printf("\n ganaste");
 
 
